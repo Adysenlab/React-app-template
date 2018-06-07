@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "result": {
+    "apiKey": "AIzaSyCcOFgHciSxjMWreVlbODUayXBwKPFzVjw",
+    "databaseURL": "https://dnet-40a46.firebaseio.com",
+    "storageBucket": "dnet-40a46.appspot.com",
+    "authDomain": "dnet-40a46.firebaseapp.com",
+    "messagingSenderId": "317573630734",
+    "projectId": "dnet-40a46"
+  }
+}
